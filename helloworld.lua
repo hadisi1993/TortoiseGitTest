@@ -1,6 +1,6 @@
-function PrintHelloWold()
+function PrintHelloWold(args)
    print("hello world");
 end
 
--- 打印HelloWorld的注释...
-PrintHelloWold();
+-- dev_2的代码
+PrintHelloWorld(1);
